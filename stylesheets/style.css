@@ -12,6 +12,12 @@ body{
   font-size: 1.4em;
 }
 
+a{
+  text-decoration: none;
+  font-weight: 200;
+  color: rgba(255, 255, 255, .9);
+}
+
 .box-01{
   width: 100%;
   min-height: 50%;
@@ -22,7 +28,7 @@ body{
 
 .box-01 h1{
   margin: 0px 10px 10px 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 8.0em;
 }
@@ -42,14 +48,14 @@ body{
 
 .box-02 h2{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 6.0em;
 }
 
 .box-02 h3{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 2.0em;
 }
@@ -70,14 +76,14 @@ body{
 
 .box-03 h2{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 6.0em;
 }
 
 .box-03 h3{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 2.0em;
 }
@@ -98,14 +104,14 @@ body{
 
 .box-04 h2{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 6.0em;
 }
 
 .box-04 h3{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 2.0em;
 }
@@ -131,7 +137,7 @@ body{
 
 .box-05 h2{
   margin: 10px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', 'Open Sans';
   font-weight: 100;
   font-size: 2.0em;
 }
